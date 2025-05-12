@@ -1,0 +1,1 @@
+snacks = ["popcorn", "nuggets", "gummis", "nachos"]
